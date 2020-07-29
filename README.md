@@ -1,2 +1,2 @@
-# C-_practice_and_projects
+# cpp_practice_and_projects
 c++ projects and practice problem.
